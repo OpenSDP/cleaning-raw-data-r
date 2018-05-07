@@ -1,5 +1,5 @@
 OpenSDP Data Janitor Tutorial (R)
-Data Exploration
+Cleaning Raw Data
 
 This tutorial has two objectives. The first objective is to demonstrate the
 process of cleaning a raw data file from start to finish. The second objective
